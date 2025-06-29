@@ -55,10 +55,10 @@ I’m a passionate Android Developer currently training at **The Chance**, where
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elsayedmagdy/">
+  <a href="[https://www.linkedin.com/in/elsayedmagdy/](https://www.linkedin.com/in/elsayed-magdy/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:elsayed.magdy.dev@gmail.com">
+  <a href="mailto:elsayed3690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
