@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59229510/228429704-22483efd-ac2f-4908-9d9f-d5e72728a011.png" width="100%"/>
+</p>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
   &nbsp;Hi, I'm Elsayed Magdy Elsayed
@@ -5,29 +8,25 @@
 <h3 align="center">Android Developer | Kotlin Enthusiast | Jetpack Compose Advocate</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59229510/228429704-22483efd-ac2f-4908-9d9f-d5e72728a011.png" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ElsayedMagdy122&label=Profile%20views&color=0e75b6&style=flat" alt="ElsayedMagdy122" />
 </p>
 
 ---
 
-### 📘 Summary
+###  Summary
 
 I’m a passionate Android Developer currently training at **The Chance**, where I'm sharpening my skills in modern Android development practices. I focus on writing clean, testable, and scalable code using cutting-edge tools and frameworks.
 
-- 📚 Strong background in **Kotlin**, **Coroutines**, **Jetpack Compose**, **Room**, **Koin**, and **Coil**
-- 🔧 Experienced with **Firebase**, **MongoDB**, **Git**, **GitHub**, and **CI/CD** via GitHub Actions
-- 🎨 Comfortable with UI/UX design tools like **Figma**
-- 📐 Solid foundation in **Data Structures** and **Algorithms**
-- 🚀 Currently working on `Tudee`, a smart Android task manager app
-- 📬 Contact: `elsayed.magdy.dev@gmail.com`
+-  Strong background in **Kotlin**, **Coroutines**, **Jetpack Compose**, **Room**, **Koin**, and **Coil**
+-  Experienced with **Firebase**, **MongoDB**, **Git**, **GitHub**, and **CI/CD** via GitHub Actions
+-  Comfortable with UI/UX design tools like **Figma**
+-  Solid foundation in **Data Structures** and **Algorithms**
+-  Currently working on `Tudee`, a smart Android task manager app
+-  Contact: `elsayed.magdy.dev@gmail.com`
 
 ---
 
-### 🧰 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
