@@ -31,9 +31,10 @@
 </p>
 
 ---
-## 🐍 My GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/ElsayedMagdy122/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg)
+
 ### 📈 GitHub Stats
 
 <p align="center">
