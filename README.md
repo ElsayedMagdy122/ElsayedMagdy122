@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Koin-007ACC?style=for-the-badge&logo=dependabot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
