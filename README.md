@@ -55,7 +55,7 @@ I’m a passionate Android Developer currently training at **The Chance**, where
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/elsayedmagdy/](https://www.linkedin.com/in/elsayed-magdy/)">
+  <a href="https://www.linkedin.com/in/elsayedmagdy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:elsayed3690@gmail.com">
