@@ -31,7 +31,7 @@
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg)
 
