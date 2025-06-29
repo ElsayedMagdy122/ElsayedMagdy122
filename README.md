@@ -43,7 +43,7 @@ I’m a passionate Android Developer currently training at **The Chance**, where
 
 ### 🐍 GitHub Contribution Activity
 
-![snake gif](https://github.com/ElsayedMagdy122/ElsayedMagdy122/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📊 GitHub Stats
