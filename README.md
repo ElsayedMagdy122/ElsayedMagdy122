@@ -21,8 +21,6 @@ I’m a passionate Android Developer currently training at **The Chance**, where
 -  Experienced with **Firebase**, **MongoDB**, **Git**, **GitHub**, and **CI/CD** via GitHub Actions
 -  Comfortable with UI/UX design tools like **Figma**
 -  Solid foundation in **Data Structures** and **Algorithms**
--  Currently working on `Tudee`, a smart Android task manager app
--  Contact: `elsayed.magdy.dev@gmail.com`
 
 ---
 
