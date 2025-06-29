@@ -33,17 +33,6 @@
 
 ---
 
-### 📱 Featured Projects
-
-#### 📌 Tudee - Smart Task Manager
-![Tudee Screenshot](https://github.com/YourUsername/Tudee/blob/main/assets/tudee_screenshot.png)
-
-> Modern task manager using Jetpack Compose, Firebase, MVVM, and full state management with Koin.
-
-[🔗 GitHub Repo](https://github.com/YourUsername/Tudee)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
