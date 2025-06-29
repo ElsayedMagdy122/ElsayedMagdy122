@@ -35,7 +35,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg?timestamp=20250629)
 
 ### 📈 GitHub Stats
 
