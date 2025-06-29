@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Elsayed Magdy Elsayed</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
+  &nbsp;Hi, I'm Elsayed Magdy Elsayed
+</h1>
 <h3 align="center">Android Developer | Kotlin Enthusiast | Jetpack Compose Advocate</h3>
 
 <p align="center">
@@ -40,12 +43,6 @@ I’m a passionate Android Developer currently training at **The Chance**, where
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Activity
-
-![snake gif](https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/github-contribution-grid-snake.svg)
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
