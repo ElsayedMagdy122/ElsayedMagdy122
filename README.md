@@ -59,3 +59,4 @@ I’m a passionate Android Developer currently training at **The Chance**, where
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<img src="https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/snake.svg" alt="Snake animation" />
