@@ -15,15 +15,9 @@
 
 ###  Summary
 
-I’m a passionate Android Developer currently training at **The Chance**, where I'm sharpening my skills in modern Android development practices. I focus on writing clean, testable, and scalable code using cutting-edge tools and frameworks.
-
-
 Passionate Android Developer who enjoys building practical, scalable, and user-friendly mobile applications. Experienced
-
 in modern Android architecture patterns, API integration, and developing smooth, responsive interfaces. Proficient with
-
 the latest Android tools and libraries, and always eager to learn new technologies to improve app performance and use
-
 
 ---
 
