@@ -16,7 +16,9 @@
 ###  Summary
 
 Passionate Android Developer who enjoys building practical, scalable, and user-friendly mobile applications. Experienced
+
 in modern Android architecture patterns, API integration, and developing smooth, responsive interfaces. Proficient with
+
 the latest Android tools and libraries, and always eager to learn new technologies to improve app performance and use
 
 ---
