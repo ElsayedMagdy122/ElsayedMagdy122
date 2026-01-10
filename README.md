@@ -31,10 +31,12 @@ I care about **code quality**, **performance**, and **maintainability**.
 ---
 
 ##  Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,firebase,ktor,sqlite,mongodb,figma" />
 </p>
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma,mongodb" />
+</p> -->
 
 ---
 
