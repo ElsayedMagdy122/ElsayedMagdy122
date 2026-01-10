@@ -18,7 +18,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 - MVVM / Clean Architecture  
 - Jetpack Compose  
@@ -30,7 +30,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma,mongodb" />
@@ -38,7 +38,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElsayedMagdy122&show_icons=true&theme=radical" />
@@ -47,7 +47,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elsayed-magdy/" target="_blank">
