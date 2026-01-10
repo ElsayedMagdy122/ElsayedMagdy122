@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=200&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Android Developer • Kotlin • Jetpack Compose</h3>
+<h3 align="center">Software Engineer | Junior Android Developer Kotlin • Jetpack Compose • MVVM • CMP • KMP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ElsayedMagdy122&label=Profile%20Views&color=0e75b6&style=flat" />
