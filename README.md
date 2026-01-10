@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=180&section=header&text=Elsayed%20Magdy&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=200&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Android Developer • Kotlin • Jetpack Compose</h3>
@@ -10,31 +10,35 @@
 
 ---
 
-## About
+## 👋 About Me
 
-Android Developer focused on building **clean, scalable applications** using modern Android tools.  
-Strong experience with **Jetpack Compose**, **Clean Architecture**, and **Kotlin Coroutines**.
+Android Developer focused on building **clean, scalable, and production-ready applications**.  
+Strong experience with **modern Android architecture**, **Jetpack Compose**, and **Kotlin Coroutines**.  
+I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-## Tech Stack
+## 🧠 Core Skills
+
+- MVVM / Clean Architecture  
+- Jetpack Compose  
+- Kotlin Coroutines & Flow  
+- REST APIs & Firebase  
+- Dependency Injection (Koin)  
+- Local Storage (Room)  
+- Git & CI/CD  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma,mongodb" />
 </p>
 
 ---
 
-## Featured Projects
-
-- **MENA** — KMP Super App (Compose Multiplatform)
-- **Evolve Fit** — Fitness & Nutrition App
-- **Movio** — Movies App (Clean Architecture)
-- **Tudee** — Task Manager App
-
----
-
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElsayedMagdy122&show_icons=true&theme=radical" />
@@ -43,17 +47,19 @@ Strong experience with **Jetpack Compose**, **Clean Architecture**, and **Kotlin
 
 ---
 
-## Contact
+## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elsayed-magdy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/elsayed-magdy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:elsayed3690@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/snake.svg" alt="Snake animation" />
 </p>
