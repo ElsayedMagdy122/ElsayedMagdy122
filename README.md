@@ -62,6 +62,6 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
