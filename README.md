@@ -20,7 +20,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ##  Core Skills
 
-- MVVM, Mvi / Clean Architecture  
+- MVVM, MVI / Clean Architecture  
 - Jetpack Compose  
 - Kotlin Coroutines & Flow  
 - REST APIs & Firebase & Supabase  
