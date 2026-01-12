@@ -20,12 +20,12 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ##  Core Skills
 
-- MVVM / Clean Architecture  
+- MVVM, Mvi / Clean Architecture  
 - Jetpack Compose  
 - Kotlin Coroutines & Flow  
-- REST APIs & Firebase  
-- Dependency Injection (Koin)  
-- Local Storage (Room)  
+- REST APIs & Firebase & Supabase  
+- Dependency Injection (Koin, Hilt , Dagger)  
+- Local Storage (Room, Data Store , Shared Prefrences)  
 - Git & CI/CD  
 
 ---
