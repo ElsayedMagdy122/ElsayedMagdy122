@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=200&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h3 align="center">Android Developer Kotlin • Jetpack Compose • MVVM • CMP • KMP</h3>
-
+<h3 align="center" style="color:#8b949e;">
+  Android Developer Kotlin • Jetpack Compose • MVVM • CMP • KMP
+</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElsayedMagdy122&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ElsayedMagdy122&label=Profile%20Views&color=58a6ff&style=flat&v=5" />
 </p>
 
 ---
