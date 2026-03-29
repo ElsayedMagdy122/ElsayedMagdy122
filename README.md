@@ -32,7 +32,7 @@ I care about **code quality**, **performance**, and **maintainability**.
 
 ##  Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,firebase,ktor,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,firebase,ktor,sqlite,figmaوtensorflow,supabase,stackoverflow,spring,postman,linkedin" />
 </p>
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma,mongodb" />
