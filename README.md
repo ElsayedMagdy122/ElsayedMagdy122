@@ -43,11 +43,18 @@ I care about **code quality**, **performance**, and **maintainability**.
 ##  GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElsayedMagdy122&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedMagdy122&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElsayedMagdy122&show_icons=true&theme=github_dark&border_radius=25&hide_border=false" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=ElsayedMagdy122&theme=github_dark&border_radius=25&hide_border=false" />
 </p>
+<div align="center">
 
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsayedMagdy122&radius=25&theme=github-dark&area=true&order=5&hide_border=false&border_radius=25" width="96%"  alt="activity-graph graph"  />
+  <div>
+  </div>
+
+
+</div>
 
 ##  Connect With Me
 
@@ -60,8 +67,8 @@ I care about **code quality**, **performance**, and **maintainability**.
   </a>
 </p>
 
----
 
-<!-- <p align="center">
+
+ <p align="center">
   <img src="https://raw.githubusercontent.com/ElsayedMagdy122/ElsayedMagdy122/output/snake.svg" alt="Snake animation" />
-</p> -->
+</p> 
