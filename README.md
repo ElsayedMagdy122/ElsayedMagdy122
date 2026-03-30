@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:238636,100:1a1b27&height=180&section=header&text=Elsayed%20Magdy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<div align="center">
+</div>
 <h3 align="center" style="color:#8b949e;">
   Android Developer Kotlin • Jetpack Compose • MVVM • CMP • KMP
 </h3>
